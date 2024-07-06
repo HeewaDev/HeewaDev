@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeewaDev
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data visualizations, RDBMS, Libraries such as: NumPy, Pandas,TensorFlow, Scikit-Learn, matplotlib, alteryx, PowerBi, Tableu
-- 💞️ I’m looking to collaborate on Ai including of ML, DL modules
+- 👀 Data Science & Full-Stack Web Developer
+- JavaScript, Python, Java, 
+- Nest Js, Node Js, React, Tailwind, Flask, CI/CD.
 - 📫 How to reach me ...
 
 <!---
