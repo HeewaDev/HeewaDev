@@ -2,6 +2,7 @@
 - 👀 Data Science & Full-Stack Web Developer
 - JavaScript, Python, Java, 
 - Nest Js, Node Js, React, Tailwind, Flask, CI/CD.
+- MySQL, PostgreSQL
 - 📫 How to reach me ...
 
 <!---
