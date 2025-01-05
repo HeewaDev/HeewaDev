@@ -4,16 +4,27 @@
 ✨ Focused on building robust and scalable applications.<br><br>
 🎨 **Fun fact:** I love integrating art and technology into my projects!
 
+🌟 **Currently Learning**: Blockchain Development, Advanced AI models with PyTorch & TensorFlow.<br>
+🚀 **Goals for 2025**: Contribute to open-source projects, launch my first SaaS product, and mentor junior developers.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiwa-sadraldeen/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heewadev)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
 
 # 💻 Tech Stack:
 <!-- Add icons for animation -->
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nestjs,tailwind,docker,kubernetes,postgres,mysql,py,flask,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nestjs,tailwind,docker,kubernetes,postgres,mysql,py,flask,tensorflow,java,cpp,git,aws,linux" />
+</p>
+
+### 🔧 **Tools & IDEs I Use**:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,jetbrains,github,gitlab,figma,postman" />
 </p>
 
 ---
@@ -57,7 +68,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heewadev&theme=github_dark" alt="Profile Summary">
 </p>
 
-- **GIF or Animation for Style**:  
+---
+
+### 🌟 Portfolio Showcase:
+🎨 Check out some of my latest work:  
+- [**Project Name**](https://yourprojectlink.com) - Description of the project  
+- [**Another Project**](https://anotherprojectlink.com) - Description of the project  
+- [**Open Source Contribution**](https://opensourcecontributionlink.com) - Description of the contribution  
+
+---
+
+### ⚡ Fun Facts About Me:
+- 🌍 I speak **Kurdish, English, and Arabic fluently**.
+- 🎵 When I’m not coding, I’m creating **electronic music** or exploring **art installations**.
+- 🧩 Favorite hobby: **Solving puzzles** and playing **strategy games** like Chess.
+- 📚 Favorite book: **"Clean Code" by Robert C. Martin**.
+
+---
+
+### 💡 Coding GIFs & Fun:
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45%" alt="Debugging GIF">
 </p>
