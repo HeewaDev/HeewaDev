@@ -70,22 +70,6 @@
 
 ---
 
-### 🌟 Portfolio Showcase:
-🎨 Check out some of my latest work:  
-- [**Project Name**](https://yourprojectlink.com) - Description of the project  
-- [**Another Project**](https://anotherprojectlink.com) - Description of the project  
-- [**Open Source Contribution**](https://opensourcecontributionlink.com) - Description of the contribution  
-
----
-
-### ⚡ Fun Facts About Me:
-- 🌍 I speak **Kurdish, English, and Arabic fluently**.
-- 🎵 When I’m not coding, I’m creating **electronic music** or exploring **art installations**.
-- 🧩 Favorite hobby: **Solving puzzles** and playing **strategy games** like Chess.
-- 📚 Favorite book: **"Clean Code" by Robert C. Martin**.
-
----
-
 ### 💡 Coding GIFs & Fun:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Coding GIF">
