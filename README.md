@@ -4,8 +4,8 @@
 ✨ Focused on building robust and scalable applications.<br><br>
 🎨 **Fun fact:** I love integrating art and technology into my projects!
 
-🌟 **Currently Learning**: Blockchain Development, Advanced AI models with PyTorch & TensorFlow.<br>
-🚀 **Goals for 2025**: Contribute to open-source projects, launch my first SaaS product, and mentor junior developers.
+
+
 
 ---
 
