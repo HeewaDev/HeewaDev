@@ -1,28 +1,25 @@
 # 💫 About Me:
-👋 **Hi there!** <br>I'm a Kurdish software developer passionate about blending creativity and innovation.<br>Currently working at a leading startup in Iraq.<br><br>
+👋 **Hi there!** <br>I'm a Kurdish software developer passionate about blending creativity and innovation.<br>
+Currently working at a leading startup in Iraq.<br><br>
 💻 Proficient in **React**, **NodeJS**, **NestJS**, **Redux**, **Tailwind**, **Docker**, **Kubernetes**.<br>
 ✨ Focused on building robust and scalable applications.<br><br>
 🎨 **Fun fact:** I love integrating art and technology into my projects!
-
-
-
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiwa-sadraldeen/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heewadev)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heewa_tech)
 
 ---
 
 # 💻 Tech Stack:
-<!-- Add icons for animation -->
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nestjs,tailwind,docker,kubernetes,postgres,mysql,py,flask,tensorflow,java,cpp,git,aws,linux" />
 </p>
 
-### 🔧 **Tools & IDEs I Use**:
+### 🔧 Tools & IDEs I Use:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,jetbrains,github,gitlab,figma,postman" />
 </p>
@@ -60,6 +57,7 @@
 ---
 
 ### 🚀 Fun Dynamic Widgets:
+
 - **Visitor Count**:  
 [![](https://visitcount.itsvg.in/api?id=Heewadev&icon=0&color=0)](https://visitcount.itsvg.in)
 
