@@ -3,7 +3,7 @@
 👋 **Hi there!** <br>I'm a Kurdish software developer passionate about blending creativity and innovation.<br>
 Currently working at a leading startup in Iraq.<br><br>
 💻 Proficient in **React**, **NodeJS**, **NestJS**, **Redux**, **Tailwind**, **Docker**, **Kubernetes**.<br>
-✨ Focused on building robust and scalable applications.<br><br>
+✨ Focused on building robust and scalable applications. Update: Currently Learning Rust and using it.<br><br>
 🎨 **Fun fact:** I love integrating art and technology into my projects!
 
 ---
